@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @savitojs
+/src/backend/database.py      @savitojs
+/src/backend/routers/auth.py  @savitojs
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @savitojs
